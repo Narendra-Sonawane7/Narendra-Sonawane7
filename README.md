@@ -158,7 +158,7 @@ me.say_hi()
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Narendra-Sonawane&repo=My_Projects&theme=tokyonight&hide_border=true" width="45%"/>
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Narendra-Sonawane7&repo=My_Projects&theme=tokyonight&hide_border=true" width="45%"/>
 
 </div>
 
