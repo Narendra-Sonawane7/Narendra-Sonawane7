@@ -111,11 +111,11 @@ me.say_hi()
 
 | 🏷️ Project | 📝 Description | 🛠️ Tech Stack | 🔗 |
 |:---:|:---:|:---:|:---:|
-| 🌦️ **Weather API** | Real-time weather for any city worldwide | `Flask` `OpenWeatherMap` `Python` | [View](https://github.com/Narendra-Sonawane7) |
-| 🤖 **AI Chatbot** | Intelligent chatbot powered by Grok/xAI | `Flask` `Grok API` `REST` | [View](https://github.com/Narendra-Sonawane7) |
-| 📰 **News Classifier** | Classifies news into 20 categories using NLP | `Naive Bayes` `TF-IDF` `Flask` | [View](https://github.com/Narendra-Sonawane7) |
-| 🌐 **Frontend Projects** | Responsive modern web interfaces | `HTML5` `CSS3` `JavaScript` | [View](https://github.com/Narendra-Sonawane7) |
-| 🌿 **MERN Apps** | Full stack web applications | `MongoDB` `Express` `React` `Node` | [View](https://github.com/Narendra-Sonawane7) |
+| 🌦️ **Weather API** | Real-time weather for any city worldwide | `Flask` `OpenWeatherMap` `Python` | [View](https://github.com/Narendra-Sonawane7/My_Project/tree/678285bcc2e5b02d42c08a4fa2f175b7d1394cf2/AI-ML_projects/weather) |
+| 🤖 **AI Chatbot** | Intelligent chatbot powered by Grok/xAI | `Flask` `Grok API` `REST` | [View](https://github.com/Narendra-Sonawane7/My_Project/tree/678285bcc2e5b02d42c08a4fa2f175b7d1394cf2/AI-ML_projects/chat_bot_2) |
+| 📰 **News Classifier** | Classifies news into 20 categories using NLP | `Naive Bayes` `TF-IDF` `Flask` | [View](https://github.com/Narendra-Sonawane7/My_Project/tree/678285bcc2e5b02d42c08a4fa2f175b7d1394cf2/AI-ML_projects/news_classifier) |
+| 🌐 **Frontend Projects** | Responsive modern web interfaces | `HTML5` `CSS3` `JavaScript` | [View](https://github.com/Narendra-Sonawane7/My_Project/tree/678285bcc2e5b02d42c08a4fa2f175b7d1394cf2/Frontend-Projects) |
+| 🌿 **MERN Apps** | Full stack web applications | `MongoDB` `Express` `React` `Node` | [View](https://github.com/Narendra-Sonawane7/My_Project/tree/678285bcc2e5b02d42c08a4fa2f175b7d1394cf2/mern-projects) |
 
 </div>
 
