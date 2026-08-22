@@ -26,11 +26,10 @@ class NarendraSonawane:
 
     def __init__(self):
         self.name        = "Narendra Sonawane"
-        self.role        = "Data Science Intern @ Puneri Pattern Pvt Ltd"
+        self.role        = "AI - Engineer || Data Science "
         self.location    = "Pune, Maharashtra 🇮🇳"
-        self.languages   = ["Python", "JavaScript", "SQL", "HTML/CSS"]
-        self.ai_ml       = ["Scikit-learn", "TensorFlow", "PyTorch", "NLP"]
-        self.web         = ["Flask", "Node.js", "React", "REST APIs"]
+        self.languages   = ["Python", "SQL", "HTML/CSS"]
+        self.ai_ml       = ["Scikit-learn", "RAG", "Lang-Chain", "Fast-API", "Vector-DB", "TensorFlow", "PyTorch", "NLP"]
         self.tools       = ["Power BI", "MySQL", "Git", "Jupyter", "Canva"]
         self.currently   = "🚀 Exploring LLMs, AI APIs & Real-world ML"
         self.learning    = ["Deep Learning", "MLOps", "LLM Fine-tuning"]
