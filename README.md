@@ -111,6 +111,7 @@ me.say_hi()
 
 | 🏷️ Project | 📝 Description | 🛠️ Tech Stack | 🔗 |
 |:---:|:---:|:---:|:---:|
+| 🧠 **AI Research & Knowledge Assistant** | RAG-based research assistant with hybrid search, OCR, multi-agent workflows & JWT auth | `FastAPI` `ChromaDB` `BM25` `Groq/Llama` `LangGraph` `Tesseract OCR` | [View](https://github.com/Narendra-Sonawane7/AI--Research-Knowledge_Assistant) |
 | 🌦️ **Weather API** | Real-time weather for any city worldwide | `Flask` `OpenWeatherMap` `Python` | [View](https://github.com/Narendra-Sonawane7/My_Project/tree/678285bcc2e5b02d42c08a4fa2f175b7d1394cf2/AI-ML_projects/weather) |
 | 🤖 **AI Chatbot** | Intelligent chatbot powered by Grok/xAI | `Flask` `Grok API` `REST` | [View](https://github.com/Narendra-Sonawane7/My_Project/tree/678285bcc2e5b02d42c08a4fa2f175b7d1394cf2/AI-ML_projects/chat_bot_2) |
 | 📰 **News Classifier** | Classifies news into 20 categories using NLP | `Naive Bayes` `TF-IDF` `Flask` | [View](https://github.com/Narendra-Sonawane7/My_Project/tree/678285bcc2e5b02d42c08a4fa2f175b7d1394cf2/AI-ML_projects/news_classifier) |
@@ -159,6 +160,7 @@ me.say_hi()
 <div align="center">
 
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=Narendra-Sonawane7&repo=My_Project&theme=tokyonight&hide_border=true" width="45%"/>
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Narendra-Sonawane7&repo=AI--Research-Knowledge_Assistant&theme=tokyonight&hide_border=true" width="45%"/>
 
 </div>
 
